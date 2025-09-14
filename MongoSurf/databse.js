@@ -1,0 +1,1 @@
+const URI = "mongodb+srv://veershweta2003_db_user:ql5qBeXTvCYxZlOF@devtycoon.bo5jvms.mongodb.net/";
